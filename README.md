@@ -45,3 +45,7 @@ produces a faster, optimized binary
 ```bash
 cargo build --release
 ```
+
+---
+
+Note: if we start with file number and create new project. Cargo will complain unless we use --name ` cargo new 02-data-types --name data-types`
